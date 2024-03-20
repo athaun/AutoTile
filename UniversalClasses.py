@@ -280,6 +280,7 @@ class Assembly:
 
     def setLabel(self, l):
         self.label = l
+        
     def setTiles(self, t):
 
         for tileI in t:

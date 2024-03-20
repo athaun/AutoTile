@@ -6,7 +6,6 @@ from UniversalClasses import TransitionRule
 
 from UniversalClasses import System, AffinityRule, TransitionRule
 
-
 def main(currentSystem, file):
     # Retrieve currentSystem's lists
     # currentSystem's Affinity Rules

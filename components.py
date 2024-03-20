@@ -29,11 +29,6 @@ class UnicodeIcons:
     def returnAllIcons(self):
         return self.unicode_dictionary
 
-
-
-
-
-
 def increment_string(stri):
     strings = ""
     num = ""
